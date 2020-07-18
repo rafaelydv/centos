@@ -19,6 +19,6 @@ dnf install @base-x \
 	    xfdesktop \
 	    gvfs-fuse \
 	    gvfs-smb \
-	    lightdm-gtk-greeter-settings \
+	    lightdm \
 	    p7zip \
 	    xarchiver
