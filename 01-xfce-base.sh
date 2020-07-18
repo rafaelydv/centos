@@ -17,5 +17,5 @@ dnf install @base-x \
 	    xfdesktop \
 	    gvfs-fuse \
 	    gvfs-smb \
-	    lightdm \
+	    gdm \
 	    p7zip
