@@ -7,18 +7,15 @@ dnf install @base-x \
 	    xfce4-settings \
 	    xfce4-notifyd \
 	    xfce4-datetime-plugin \
-	    xfce4-genmon-plugin \
 	    xfce4-whiskermenu-plugin \
 	    xfce4-taskmanager \
 	    xfce4-screenshooter\
 	    xfce4-pulseaudio-plugin \
 	    xfce4-power-manager \
-	    xfce4-notes-plugin \
 	    terminator \
 	    xdg-user-dirs \
 	    xfdesktop \
 	    gvfs-fuse \
 	    gvfs-smb \
 	    lightdm \
-	    p7zip \
-	    xarchiver
+	    p7zip
