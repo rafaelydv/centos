@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dnf install vim \
+yum install vim \
 	    htop \
 	    wget \
 	    network-manager-applet

@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-dnf install gparted \
+yum install gparted \
 	    libreoffice-writer \
 	    libreoffice-calc \
 	    libreoffice-impress \

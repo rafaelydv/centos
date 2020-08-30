@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Pacotes base do Xfce
-dnf install @base-x \
+yum install xorg \
 	    xfwm4 \
 	    xfce4-panel \
 	    xfce4-session \
@@ -12,10 +12,10 @@ dnf install @base-x \
 	    xfce4-screenshooter\
 	    xfce4-pulseaudio-plugin \
 	    xfce4-power-manager \
-	    terminator \
+	    xfce4-terminal \
 	    xdg-user-dirs \
 	    xfdesktop \
 	    gvfs-fuse \
 	    gvfs-smb \
-	    gdm \
+	    lightdm \
 	    p7zip

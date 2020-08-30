@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-dnf install firefox \
+yum install firefox \
 	    transmission \
 	    transmission-gtk \
 	    filezilla \
