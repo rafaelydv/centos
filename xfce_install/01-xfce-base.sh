@@ -18,4 +18,5 @@ yum install xorg \
 	    gvfs-fuse \
 	    gvfs-smb \
 	    lightdm \
+	    lightdm-gtk \
 	    p7zip
