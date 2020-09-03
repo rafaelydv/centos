@@ -6,6 +6,7 @@ yum install gparted \
 	    libreoffice-impress \
 	    libreoffice-langpack-pt-BR \
 	    kolourpaint \
+	    mousepad \
 	    keepass2 \
 	    zip \
 	    unzip \
