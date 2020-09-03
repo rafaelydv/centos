@@ -1,7 +1,6 @@
 #!/bin/bash
 ## Pacotes base do Xfce
-yum install xorg \
-	    xfwm4 \
+yum install xfwm4 \
 	    xfce4-panel \
 	    xfce4-session \
 	    xfce4-settings \
